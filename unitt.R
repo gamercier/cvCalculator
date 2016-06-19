@@ -1,6 +1,5 @@
 #' unit test for cvcalc.R
 #' 
-setwd("~/MOOC/CourseEra/DevelopingDataP/prj/cvCalc")
 source("./cvcalc.R")
 unit.test.sterms <- function(f,coef,obs,answ){
   out <- f(coef,obs)

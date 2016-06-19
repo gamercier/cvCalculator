@@ -1,4 +1,5 @@
 # cvcalc - Cardiovascular Calculator
 
-Github markdown file. See cvcalc.html for slidy presentation.
+See [slidy presentation](https://gamercier.github.io/cvCalculator_slides/)
+See [shiny application](https://gamercier.shinyapps.io/cvCalculator/)
 
