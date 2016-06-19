@@ -38,8 +38,12 @@ shinyUI(
     p("The number represents the probability of a heart attack or stroke, either fatal or not,
       in the next 10 years. A probability less than 7.5% is considered low. Vary the input to
       see how the probability changes. The slider inputs will restrict the input to valid ranges.
-      To see the official calculator go to",
+      To see the official calculator from AHA/ACC go to",
       a(href="http://www.cvriskcalculator.com/","www.cvriskcalculator.com")
+    ),
+    p("cvCalculator github repositories:",
+      a(href="https://github.com/gamercier/cvCalculator","shiny app, "),
+      a(href="https://gamercier.github.io/cvCalculator_slides","slidy slides")
     )
   )
 )

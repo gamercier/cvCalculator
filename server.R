@@ -2,7 +2,7 @@
 
 # setwd("~/MOOC/CourseEra/DevelopingDataP/prj/cvCalc")
 #' Get the calculator
-source("./src/cvcalc.R")
+source("./cvcalc.R")
 
 library(shiny)
 
